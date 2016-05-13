@@ -1,2 +1,2 @@
-# hastac2016
-# hastac2016
+# hastac16
+This repository contains files used to visualize the participation in the HASTAC Conference 2016. The files are open-source and you can use them as you see fit. Just make sure to credit HASTAC and #hastac16, the conference
